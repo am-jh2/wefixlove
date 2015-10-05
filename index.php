@@ -1,1 +1,0 @@
-Tis iz index file.
